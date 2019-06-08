@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'EFImageViewZoom.swift'
+  s.source_files = 'Sources/EFImageViewZoom/EFImageViewZoom.swift'
 
 end
